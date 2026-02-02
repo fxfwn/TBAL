@@ -1,2 +1,2 @@
-# TBAL
-TBAL - A microlanguage for evaluating boolean algebra expressions and generating logic truth tables
+# TBAL - Tiny Boolean Algebra Language
+TBAL is A microlanguage for evaluating boolean algebra expressions and generating logic truth tables.
