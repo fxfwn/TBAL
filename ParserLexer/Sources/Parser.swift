@@ -8,4 +8,7 @@ public indirect enum Expr
     case OR(Expr, Expr)
 }
 
-public func parse(tokens: [Token]) throws -> Expr {...}
+public func parse(tokens: [Token]) throws -> Expr
+{
+    //start parsing
+}
