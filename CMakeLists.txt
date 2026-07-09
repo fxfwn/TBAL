@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.25)
+cmake_minimum_required(VERSION 3.5)
 
 project(TBAL LANGUAGES Swift)
 
