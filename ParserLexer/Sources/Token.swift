@@ -1,6 +1,7 @@
-//Tokenizer for TBAL
+//Token definitions for TBAL
 
-enum TokenKind: Equatable {
+enum TokenKind: Equatable
+{
     case identifier(String)
     case and
     case or
@@ -9,7 +10,9 @@ enum TokenKind: Equatable {
     case rightParen
     case eof
 }
-struct Tokenizer {
+
+struct Token
+{
     let kind: TokenKind
     let position: Int
 }
